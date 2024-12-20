@@ -23,7 +23,7 @@ pip install -r requirements/data_gsim.txt # if you want to reproduce the GSIM da
 ```
 
 > [!IMPORTANT]
-> After installing the requirements, supplemenraty datasets can be re-created (except for [SILD](/data/sild/README.md), which should be downloaded from [here](https://forms.gle/EFx3qDfUGN9XnJWT9) and placed into the `/data/sild/` directory) by following the instructions for each ([GSIM](/data/gsim/README.md), [LLM-Gen](/data/llm-gen/README.md), or [S44k](/data/s44k/README.md)).
+> After installing the requirements, supplemenraty datasets can be re-created (except for [SILD](/data/sild/README.md), which should be downloaded from [here](https://forms.gle/EFx3qDfUGN9XnJWT9) and placed into the `/data/sild/` directory) by following the instructions for each ([GSIM](/data/gsim/README.md), [LLM-Gen](/data/llm_gen/README.md), or [S44k](/data/s44k/README.md)).
 > SILD is archived on [Zenodo](http://dx.doi.org/10.5281/zenodo.11397370).
 
 ## Experiments
