@@ -1,4 +1,4 @@
-# SLLM-Generated Sentence Pairs (LLM-Gen)
+# LLM-Generated Sentence Pairs (LLM-Gen)
 
 ## Dataset Description
 
