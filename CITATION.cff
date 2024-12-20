@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tsereteli"
+  given-names: "Tornike"
+  orcid: "https://orcid.org/0000-0003-4298-3570"
+- family-names: "Ruffinelli"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-4831-2930"
+- family-names: "Ponzetto"
+  given-names: "Simone Paolo"
+  orcid: "https://orcid.org/0000-0001-7484-2049"
+title: "Enriching Social Science Research via Survey Item Linking"
+version: 1.0.0
+doi: 
+date-released: 2024-06-14
+url: "https://github.com/e-tornike/SIL"
