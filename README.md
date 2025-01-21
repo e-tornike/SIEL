@@ -57,7 +57,7 @@ You can download multilingual pretrained models for the social science domain:
 You can download multilingual fine-tuned models for MD on SILD, which used a batch size of 32 and a sequence length of 64, here:
 
 - [XLM-R-base-SILD](https://huggingface.co/e-tornike/xlm-roberta-base-sild) is fine-tuned on SILD using ... . 
-- [XLM-R-large-SILD](https://huggingface.co/e-tornike/xlm-roberta-large-sild) is fine-tuned on SILD using ... . 
+- [XLM-R-large-SILD](https://huggingface.co/vadis/xlm-roberta-large-finetuned-sild-md) is fine-tuned on SILD using ... . 
 - [SSOAR-XLM-R-base-SILD](https://huggingface.co/e-tornike/ssoar-xlm-roberta-base-sild) is pre-trained on S44k and then fine-tuned on SILD using ... . 
 
 You can download multilingual fine-tuned models for ED on LLM-Gen, which used a batch size of 1024 and a sequence length of 512, here:
